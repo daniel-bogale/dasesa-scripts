@@ -16,6 +16,7 @@ const csvFilePath = "./ReprenstativeSampleGroups.csv";
 // Function to read CSV and upload to Firestore
 function uploadCsvToFirestore() {
   const representativeGroups = [];
+  const representativeSampleFor428 = {};
 
   fs.createReadStream(csvFilePath)
     .pipe(csv())
@@ -33,9 +34,12 @@ function uploadCsvToFirestore() {
       };
 
       representativeGroups.push({ id: docId, data: docData });
+      representativeSampleFor428[docData.group] = docData.proportion;
     })
     .on("end", () => {
       console.log("CSV file successfully processed. Uploading to Firestore...");
+      //use representativeSampleFor428 to update the cache on backend representative calculation
+      console.log(representativeSampleFor428);
       uploadToFirestore(representativeGroups);
     });
 }
