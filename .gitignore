@@ -1,0 +1,5 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore Firebase private key.
+dasesa-private-key.json
