@@ -3,9 +3,11 @@ const fs = require("fs");
 const csv = require("csv-parser");
 
 admin.initializeApp({
-  credential: admin.credential.cert(require("../dasesa-private-key.json")),
+  credential: admin.credential.cert(require("./dasesa-private-key.json")),
   databaseURL: "https://<your-database-name>.firebaseio.com",
 });
+
+const db = admin.firestore();
 
 const csvFilePath = "./SuggestedOptions.csv";
 
@@ -19,6 +21,7 @@ function uploadCsvToFirestore() {
       const options = row.options.split("__");
       const docData = {
         title: row.title,
+        index: +row.no,
         options,
       };
 
