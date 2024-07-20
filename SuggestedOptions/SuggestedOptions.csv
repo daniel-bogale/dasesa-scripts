@@ -1,0 +1,55 @@
+no,title,options
+1,Disagree-Agree,Strongly agree__Agree__Somewhat agree__Neither agree nor disagree__Somewhat disagree__Disagree__Strongly disagree
+2,Dissatisfied-Satisfied,Extremely dissatisfied__Moderately dissatisfied__Slightly dissatisfied__Neither satisfied nor dissatisfied__Slightly satisfied__Moderately satisfied__Extremely satisfied
+3,Inappropriate-Appropriate,Extremely inappropriate__Moderately inappropriate__Slightly inappropriate__Neither appropriate nor inappropriate__Slightly appropriate__Moderately appropriate__Extremely appropriate
+4,Male-Female,Male__Female
+5,Yes-No,Definitely false__Probably false__Neither true nor false__Probably true__Definitely true__Click to write Choice 6
+6,Below Avg-Above Avg,Far below average__Moderately below average__Slightly below average__Average__Slightly above average__Moderately above average__Far above average
+7,Worse-Better,Much worse__Moderately worse__Slightly worse__About the same__Slightly better__Moderately better__Much better
+8,Difficult-Easy,Extremely difficult__Moderately difficult__Slightly difficult__Neither easy nor difficult__Slightly easy__Moderately easy__Extremely easy
+9,Ineffective-Effective,Not effective at all__Slightly effective__Moderately effective__Very effective__Extremely effective
+10,Bad-Good,Extremely bad__Moderately bad__Slightly bad__Neither good nor bad__Slightly good__Moderately good__Extremely good
+11,Regrettful-Delightful,Terrible__Poor__Average__Good__Delightful
+12,Believability,Extremely unbelievable__Moderately unbelievable__Slightly unbelievable__Neither believable nor unbelievable__Slightly believable__Moderately believable__Extremely believable
+13,Slow-Fast,Extremely slow__Moderately slow__Slightly slow__Average__Slightly fast__Moderately fast__Extremely fast
+14,Unlikely-Likely,Extremely unlikely__Somewhat unlikely__Neither likely nor unlikely__Somewhat likely__Extremely likely
+15,Unhappy-Happy,Extremely unhappy__Moderately unhappy__Slightly unhappy__Neither happy nor unhappy__Slightly happy__Moderately happy__Extremely happy
+16,Useless-Useful,Extremely useless__Moderately useless__Slightly useless__Neither useful nor useless__Slightly useful__Moderately useful__Extremely useful
+17,Unimportant-Important,Not at all important__Slightly important__Moderately important__Very important__Extremely important
+18,Describe my feelings,Does not describe my feelings__Slightly describes my feelings__Moderately describes my feelings__Mostly describes my feelings__Clearly describes my feelings
+19,Describes me,Does not describe me__Describes me slightly well__Describes me moderately well__Describes me very well__Describes me extremely well
+20,Displeased-Pleased,Extremely displeased__Somewhat displeased__Neither pleased nor displeased__Somewhat pleased__Extremely pleased
+21,No preferences-Prefer,Do not prefer__Prefer slightly__Prefer a moderate amount__Prefer a lot__Prefer a great deal
+22,Dislike-Like,Dislike a great deal__Dislike a moderate amount__Dislike a little__Neither like nor dislike__Like a little__Like a moderate amount__Like a great deal
+23,Intervals,Never__Once a week__2-3 times a week__4-6 times a week__Daily
+24,Quantity,Much less__Moderately less__Slightly less__About the same__Slightly more__Moderately more__Much more
+25,Expectations,Far short of expectations__Short of expectations__Equals expectations__Exceeds expectations__Far exceeds expectations
+26,Ideals,Not close to the ideal__Slightly close to the ideal__Moderately close to the ideal__Very close to the ideal__Extremely close to the ideal
+27,Never-Always,Never__Sometimes__About half the time__Most of the time__Always
+28,None-All,None at all__A little__A moderate amount__A lot__A great deal
+29,Too little-Too much,Far too little__Moderately too little__Slightly too little__Neither too much nor too little__Slightly too much__Moderately too much__Far too much
+30,Lower-Higher,Much lower__Moderately lower__Slightly lower__About the same__Slightly higher__Moderately higher__Much higher
+31,Worst-Best,One of the worst__Below average__Average__Above average__One of the best
+32,Poor-Excellent,Terrible__Poor__Average__Good__Excellent
+33,Chance,Definitely will not__Probably will not__Might or might not__Probably will__Definitely will
+34,Weak-Strong,Much weaker__Moderately weaker__Slightly weaker__No change__Slightly stronger__Moderately stronger__Much stronger
+35,Clear-Unclear,Extremely unclear__Moderately unclear__Slightly unclear__Neither clear nor unclear__Slightly clear__Moderately clear__Extremely clear
+36,Reasonable-Unreasonable,Extremely unreasonable__Moderately unreasonable__Slightly unreasonable__Neither reasonable nor unreasonable__Slightly reasonable__Moderately reasonable__Extremely reasonable
+37,Comfortable-Uncomfortable,Extremely uncomfortable__Moderately uncomfortable__Slightly uncomfortable__Neither comfortable nor uncomfortable__Slightly comfortable__Moderately comfortable__Extremely comfortable
+38,Positive-Negative,Extremely negative__Moderately negative__Slightly negative__Neither positive nor negative__Slightly positive__Moderately positive__Extremely positive
+39,Competent-Incompetent,Extremely incompetent__Moderately incompetent__Slightly incompetent__Neither competent nor incompetent__Slightly competent__Moderately competent__Extremely competent
+40,Unprofessional-Professional,Extremely unprofessional__Moderately unprofessional__Slightly unprofessional__Neither professional nor unprofessional__Slightly professional__Moderately professional__Extremely professional
+41,Adequate-Inadequate,Extremely inadequate__Moderately inadequate__Slightly inadequate__Neither adequate nor inadequate__Slightly adequate__Moderately adequate__Extremely adequate
+42,Interesting,Not interesting at all__Slightly interesting__Moderately interesting__Very interesting__Extremely interesting
+43,Challenging,Not challenging at all__Slightly challenging__Moderately challenging__Very challenging__Extremely challenging
+44,How Well,Not well at all__Slightly well__Moderately well__Very well__Extremely well
+45,How Accurately,Not accurately at all__Slightly accurately__Moderately accurately__Very accurately__Extremely accurately
+46,Knowledgeable,Not knowledgeable at all__Slightly knowledgeable__Moderately knowledgeable__Very knowledgeable__Extremely knowledgeable
+47,Familiar,Not familiar at all__Slightly familiar__Moderately familiar__Very familiar__Extremely familiar
+48,Ethnicity,Use Our Ethnicity List
+49,Marital Status,Married__Widowed__Divorced__Separated__Never married
+50,Income BIrr,Use Our Birr Range
+51,Age,Under 18__18 - 24__25 - 34__35 - 44__45 - 54__55 - 64__65 - 74__75 - 84__85 or older
+52,Employment,Employed full time__Employed part time__Unemployed looking for work__Unemployed not looking for work__Retired__Student__Disabled
+53,Education,Less than high school__High school graduate__Some college__2 year degree__4 year degree__Professional degree__Doctorate
+54,Intent to stay,"6 months or less__Over 6 months, up to 1 year__Over 1 year, up to 3 years__Over 3 years, up to 5 years__Over 5 years"
